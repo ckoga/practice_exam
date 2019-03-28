@@ -1,0 +1,39 @@
+
+Gather study materials
+	Session notes
+		terminal commands
+			cd
+			cd ..
+			ls
+			touch
+			cat
+			rm 
+			rm -rf
+		git commands
+			git init
+			git commit
+			git status
+			git add
+			git diff
+		GitHub
+			Repo
+			add remote
+			git pull
+			git push 
+			pull request
+		Top Down Design
+			instance
+			class
+			attributes (ex)
+			methods
+	Practice terminal commands
+		open terminal
+			use command space bar to open spotlight search
+				type in terminal 
+					hit enter
+		make a directory 
+			type mkdir into command line
+		check for directory
+			type ls into command line
+		move into the directory
+		
